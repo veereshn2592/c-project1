@@ -1,0 +1,9 @@
+#include<stdio.h>
+main()
+{
+factorial();
+reverse();
+big3();
+big2();
+palin();
+}
